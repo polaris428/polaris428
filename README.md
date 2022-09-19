@@ -1,5 +1,4 @@
-### Hi there 👋
-<img src="https://simpleicons.org/icons/android.svg"/>
+### Hi there 👋>
 <!--
 **polaris428/polaris428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
