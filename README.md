@@ -1,3 +1,7 @@
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome%to%Polaris%GitHub&fontSize=60)
+
+
 ### 안녕하세요 안드로이드 개발자 정민재입니다👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polaris428&show_icons=true&theme=radical)
 # Profile
