@@ -1,5 +1,5 @@
 ### 안녕하세요 안드로이드 개발자 정민재입니다👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polaris428&show_icons=true&theme=radical)
 # Profile
 4년동안 안드로이드 개발을 공부해왔으며 
 
@@ -9,7 +9,7 @@
 
 # 학력
 선린인터넷고등학교 소프트웨어과 재학중
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polaris428&show_icons=true&theme=radical)
+
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
