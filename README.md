@@ -3,7 +3,7 @@
 
 
 ### 안녕하세요 안드로이드 개발자 정민재입니다👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polaris428&count_private=true&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=polaris428&show_icons=true&theme=radical&count_private=true)
 # Profile
 4년동안 안드로이드 개발을 공부해왔으며 
 
