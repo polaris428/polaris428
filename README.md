@@ -3,7 +3,7 @@
 
 
 ### 안녕하세요 안드로이드 개발자 정민재입니다👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=polaris428&show_icons=true&theme=radical&count_private=true)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=polaris428&show_icons=true&theme=radical&count_private=true)
 # Profile
 4년동안 안드로이드 개발을 공부해왔으며 
 
