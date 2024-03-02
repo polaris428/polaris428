@@ -11,8 +11,10 @@
 
 각종 교내 및 교외 대회에 참가하여 다른 개발자들 및 디자이너와 협업을 통해 많은 경험과 다양한 수상경력을 가지고 있습니다
 
-# 학력
-선린인터넷고등학교 소프트웨어과 재학중
+# 걸어온 길
+- 선린인터넷고등학교 소프트웨어과
+- 플레이키보드 안드로이드 개발
+
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@polaris428)](https://wakatime.com/@polaris428)
