@@ -4,12 +4,7 @@
 
 ### 안녕하세요 안드로이드 개발자 정민재입니다👋
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=polaris428&show_icons=true&theme=radical&count_private=true)
-# Profile
-키보드 서비스의 안드로이드 개발자로서 키보드/앱 유지 보수 및 신규 기능 개발 담당 업무 수행했습니다.
-스타트업의 업무 특성상 빠른 개발이 중요한 점을 고려하여, 개발 속도를 유지하면서도 장기적인 유지보수를 고려한 코드 구조와 프로세스 개선에 집중했습니다.
-MVC로 작성된 아키텍처를  MVVM 구조로 리팩토링 ,Clean Architecture와 Hilt 도입으로 유지보수성과 성능을 개선 했습니다.
-CI/CD와 다국어 관리 프로세스 등 팀 내부에 업무 비효율을 찾아 건의하고 직접 개선하여 팀의 업무 효율을 높였습니다.
-기획 단계에서 개발자의 관점에서 의견을 적극적으로 개선하여 제품의 완성도를 위하여 끊임없이 고민하였습니다.
+
 
 # 걸어온 길
 ## 활동
