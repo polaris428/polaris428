@@ -21,7 +21,3 @@
 
 ### 🚀 Projects
 
-- [CleanArchitectureShoppingApp](https://github.com/polaris428/CleanArchitectureShoppingApp)
-- [AndroidMVVMExample](https://github.com/polaris428/AndroidMVVMExample)
-- [Study-tree](https://github.com/polaris428/Study-tree)
-
